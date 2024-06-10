@@ -1,0 +1,49 @@
+.color-picker-container{
+    background-image: url('../../images/color.avif');
+    background-size: cover;  
+    height: 100vh;  
+    margin-top: 0;
+    margin-top: 0;
+    width: 100vw;   
+}
+
+.color-picker-container h1{
+    margin-top: 0;
+    padding: 10px;
+    padding-top: 80px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.color-display{
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+
+.color-display h2{
+    font-family:'Times New Roman', Times, serif;
+    font-size:xx-large;
+    font-weight: bold;
+}
+
+.color-pickup{
+    font-family:'Times New Roman', Times, serif;
+    font-size:xx-large;
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+    margin-top: 80px;
+}
+
+ .color-pickup input{
+    margin-left: 20px;
+    border-width: 2px;
+    box-sizing: initial;
+ }
+
+ .color-pickup h3{
+    margin-top: 100px;
+    font-family:'Times New Roman', Times, serif;
+ }
+ 
